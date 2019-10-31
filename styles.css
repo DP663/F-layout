@@ -14,3 +14,53 @@ th{
   background-color: rgb(255, 0, 0);opacity:0.8;
   border: 1px solid black;
 }
+h1{
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+
+}
+h3{
+  font-family: 'Raleway';
+  font-weight: 600;
+}
+p{
+  font-family: 'Raleway', sans-serif;
+}
+li {
+  font-family: 'Raleway', sans-serif;
+  font-style: italic;
+}
+.heading{
+  position: relative;
+  left: 250px;
+  bottom: 30px;
+}
+.heading2{
+  position: relative;
+  left: 335px;
+  bottom: 30px;
+}
+.image{
+  position: relative;
+  left: 950px;
+  top: 30px;
+  height:200px;
+  width:200px;
+}
+
+.festivals{
+  list-style-type: upper-roman;
+  color: rgb(255, 0, 0);
+  position: relative;
+  left: 200px;
+  bottom: 30px;
+}
+#wrapper{
+    width: 875px;
+}
+.content
+{
+  position: relative;
+
+  bottom: 200px;
+}
